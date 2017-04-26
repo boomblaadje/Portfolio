@@ -1,6 +1,6 @@
 <?php
 
-$mail_ontv = 'marc0tjevp@gmail.com';
+$mail_ontv = 'ismet-meray@hotmail.com';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
 {#!
@@ -92,7 +92,7 @@ else
   {
       echo '<div class="column s12 m12 l9"><div class="card card-small red darken-1 white-text">Het contactformulier is niet verzonden</div>
 
-      <p><b>Onze excuses.</b> Het contactformulier kon niet verzonden worden.</p></div>';
+      <p><b>Mijn excuses.</b> Het contactformulier kon niet verzonden worden.</p></div>';
   }
 }
 ?>

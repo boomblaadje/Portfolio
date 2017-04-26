@@ -131,7 +131,7 @@ function openCity(evt, cityName) {
                                         <img src="img/scalda.png" alt="Scalda" class="responsive-img">
                                     </div>
                                     <div class="col l8 m8 s8">
-                                        <span class="card-title black-text">Applicatie- en Mediaontwikkeling</span>
+                                        <span class="card-title black-text">Applicatie ontwikkeling</span>
                                         <p>September 2016 - Heden</p>
                                         <p>Scalda College voor Techniek &amp; Design</p>
                                     </div>
@@ -262,17 +262,24 @@ function openCity(evt, cityName) {
 
                       <div class="row">
                           <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Human class" width="100%" src="img/ak1.png">
-                            <p>De Human class is waar ik er voor zorg dat de mensen kunnen trouwen en kunnen voortplanten.</p>
+                            <p>De Human class</p>
+                            <p>Hier wordt er voor gezordt dat de mensen kunnen trouwen en voortplanten.</p>
                           </div>
                           <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Zoo class" width="100%" src="img/ak2.png">
-                            <p>De Zoo class is waar alle Cages zijn en hier sorteer ik ze op Ras en als er een dier is dat dat in de goede cage wordt gestopt.</p>
+                            <p>De Zoo</p>
+                            <p>Hier worder alle bestaande dieren in een kooi gezet.</p>
+                            <p>De kooien kunnen ook gesorteerd worden op ras.</p>
+
                           </div>
                           <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Animals Overview" width="100%" src="img/ak3.png">
-                              <p>De overview jsp is de hoofdpagina van de website. dit is waar je alledieren ziet en je kan ze sorteren op Ras. </p>
+                              <p>De overview</p>
+                              <p>Dit is de HomePage van de website, hier komen alle dieren te staan.</p>
+                              <p>Hier kan je ook sorteren op ras.</p>
                           </div>
 
                           <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Edit class" width="100%" src="img/ak4.png">
-                              <p>De edit jsp is een jsp waar de knop achter elk dier/mens staat en daarmee kunnen ze de atributen van veranderen.</p>
+                              <p>De edit jsp</p>
+                              <p>Hier wordt ervoor gezord dat je verschillende attributen van de dieren/mensen kan veranderen.</p>
                           </div>
                       </div>
 
@@ -382,6 +389,11 @@ function openCity(evt, cityName) {
         <footer id="contact" class="scrollspy page-footer">
             <div class="container">
                 <div class="row">
+                  <div class="col l6 s12">
+                        <div class="footer-title">Contact</div>
+                        <?php include 'form.php';?>
+                        <div class="mobile-divider"></div>
+                    </div>
                     <div class="col l4 offset-l1 s12">
                         <div class="footer-title">Contactgegevens</div>
                         <p>

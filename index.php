@@ -78,6 +78,7 @@ function openCity(evt, cityName) {
                 <a href="https://www.linkedin.com/in/ismetMeray" target="_blank" class="btn-floating btn-large waves-effect waves white"><i class="fa fa-linkedin"></i></a>
                 <a href="docs/cv.pdf" target="_blank" class="btn-floating btn-large waves-effect waves white"><i class="fa fa-file-text-o"></i></a>
                 <a href="skype:issie1000" class="btn-floating btn-large waves-effect waves white"><i class="fa fa-skype"></i></a>
+                <a href="https://github.com/ismetMeray/Portfolio" class="btn-floating btn-large waves-effect waves white"><i class="fa fa-github"></i></a>
             </div>
             <div class="parallax-offset"></div>
         </div>
@@ -89,11 +90,15 @@ function openCity(evt, cityName) {
                     <div class="col l6 m6 s12 center z-depth-0">
                         <div class="subtitle">Wie ben ik?</div>
                         <p>
-                            Mijn naam is Ismet Meray, Ik studeer Applicatie- &amp; Mediaontwikkeling op Scalda.
-                            Ik ben qua leren en programmeren altijd wel ergens mee bezig.
-                            Als ik afgestudeerd ben wil ik graag door studeren op een HBO-opleiding.
-
-
+                            Mijn naam is Ismet Meray, Ik studeer Applicatie ontwikkeling op Scalda.
+                            Ik ben thuis en op school altijd bezig met nieuwe dingen leren over programmeren.
+                            Als ik afgestudeerd ben wil ik graag doorstuderen op een HBO-opleiding.
+                            <div class="subtitle">Mijn hobby's</div>
+                            Mijn hobby's zijn: Judo,
+                            Programmeren,
+                            Gamen
+                            <br>
+                            <br>
                             U kunt contact met mij opnemen via mijn gegevens onderaan de pagina of door het mailformulier in te vullen.
 
                         </p>
@@ -267,19 +272,19 @@ function openCity(evt, cityName) {
                           </div>
                           <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Zoo class" width="100%" src="img/ak2.png">
                             <p>De Zoo</p>
-                            <p>Hier worder alle bestaande dieren in een kooi gezet.</p>
-                            <p>De kooien kunnen ook gesorteerd worden op ras.</p>
+                            <p>Hier worden alle bestaande op ras in een kooi gesorteerd.</p>
+                            <p>De dieren worden ook toegevoegd aan de kooien.</p>
 
                           </div>
                           <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Animals Overview" width="100%" src="img/ak3.png">
                               <p>De overview</p>
                               <p>Dit is de HomePage van de website, hier komen alle dieren te staan.</p>
-                              <p>Hier kan je ook sorteren op ras.</p>
+                              <p>Hier kan je de dieren sorteren op ras.</p>
                           </div>
 
                           <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Edit class" width="100%" src="img/ak4.png">
                               <p>De edit jsp</p>
-                              <p>Hier wordt ervoor gezord dat je verschillende attributen van de dieren/mensen kan veranderen.</p>
+                              <p>Hier wordt ervoor gezord dat je verschillende attributen van de dieren en mensen kan veranderen.</p>
                           </div>
                       </div>
 
@@ -398,9 +403,9 @@ function openCity(evt, cityName) {
                         <div class="footer-title">Contactgegevens</div>
                         <p>
                             <i class="fa fa-map-marker"></i> Nieuwlandseweg 3, 4389VA Ritthem
-                            <br><i class="fa fa-phone"></i> 06 28678346
+                            <br><i class="fa fa-phone"></i> 06 28 67 83 46
                             <br> <i class="fa fa-skype"></i> issie1000
-                            <br> <i class="fa fa-envelope"></i> ismet-meray@hotmail.com
+                            <br> <i class="fa fa-envelope"></i> imeray@student.scalda.nl
                         </p>
                     </div>
                 </div>

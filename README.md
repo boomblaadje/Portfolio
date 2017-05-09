@@ -7,7 +7,8 @@ Contributions to the project are currently closed.
 
 ## Authors
 This project was created by [Ismet Meray](https://github.com/ismetMeray "GitHub page").
-Based on work by[Marco van Poortvliet](https://github.com/marc0tjevp)
+
+Based on work by [Marco van Poortvliet](https://github.com/marc0tjevp)
 ## Links
 
 * [Website](http://portfolioim.atwebpages.com/)

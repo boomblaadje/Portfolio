@@ -130,7 +130,7 @@ function openCity(evt, cityName) {
 
                     <div class="col s12 m12 l6">
                         <div class="card">
-                            <div class="card-content grey lighten-4 z-depth-1">
+                            <div class="card-content grey lighten-4 z-depth-0">
                                 <div class="row">
                                     <div class="col l3 m4 s4">
                                         <img src="img/scalda.png" alt="Scalda" class="responsive-img">
@@ -148,7 +148,7 @@ function openCity(evt, cityName) {
                     <div class="col s12 m12 l6">
 
                         <div class="card">
-                            <div class="card-content grey lighten-4 z-depth-1">
+                            <div class="card-content grey lighten-4 z-depth-0">
                                 <div class="row">
                                     <div class="col l3 m4 s4">
                                         <img src="img/smc.jpg" alt="Scheldemond College" class="responsive-img">
@@ -394,11 +394,6 @@ function openCity(evt, cityName) {
         <footer id="contact" class="scrollspy page-footer">
             <div class="container">
                 <div class="row">
-                  <div class="col l6 s12">
-                        <div class="footer-title">Contact</div>
-                        <?php include 'form.php';?>
-                        <div class="mobile-divider"></div>
-                    </div>
                     <div class="col l4 offset-l1 s12">
                         <div class="footer-title">Contactgegevens</div>
                         <p>

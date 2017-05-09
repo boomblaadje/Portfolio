@@ -6,9 +6,9 @@ This project contains my personal portfolio where you can view my experience, co
 Contributions to the project are currently closed.
 
 ## Authors
-This project was created by [Marco van Poortvliet](https://github.com/marc0tjevp "GitHub page").
-
+This project was created by [Ismet Meray](https://github.com/ismetMeray "GitHub page").
+Based on work by[Marco van Poortvliet](https://github.com/marc0tjevp)
 ## Links
 
-* [Website](https://marcovp.nl/)
-* [Source code](https://github.com/marc0tjevp/portfolio)
+* [Website](http://portfolioim.atwebpages.com/)
+* [Source code](https://github.com/ismetMeray/Portfolio)

@@ -94,7 +94,7 @@ function openCity(evt, cityName) {
                             Ik ben thuis en op school altijd bezig met nieuwe dingen leren over programmeren.
                             Als ik afgestudeerd ben wil ik graag doorstuderen op een HBO-opleiding.
                             <div class="subtitle">Mijn hobby's</div>
-                            Mijn hobby's zijn: Judo,
+                            Mijn hobby's zijn:
                             Programmeren,
                             Gamen
                             <br>
@@ -313,7 +313,6 @@ function openCity(evt, cityName) {
 
 
                               <div class="col s12 l12 m12" style="padding-left: 0">
-                                  <a class="btn white black-text waves-effect" href="www.ScaldaPasimo.nl" target="_blank">Website bezoeken</a>
 
                               </div>
 
@@ -373,17 +372,35 @@ function openCity(evt, cityName) {
                                       <tr>
                                           <td><i class="fa fa-calendar" aria-hidden="true"></i></td>
                                           <td>Opleverdatum</td>
-                                          <td class="right">Januari 2017</td>
+                                          <td class="right">T.B.D</td>
                                       </tr>
                                       <tr>
                                           <td><i class="fa fa-graduation-cap" aria-hidden="true"></i></td>
                                           <td>Beoordeling</td>
-                                          <td class="right">Goed</td>
+                                          <td class="right">T.B.D</td>
                                       </tr>
                                   </tbody>
                               </table>
                           </div>
 
+                          <div class="row">
+                              <div class="col s12 center">
+                                  <h5>Screenshots</h5>
+                              </div>
+                          </div>
+
+                          <div class="row">
+                              <div class="col s20 m6 13 center"><img class="materialboxed z-depth-2" data-caption="Human class" width="100%" src="img/Pasimo1.png">
+                                <p>De Struts.xml</p>
+                                <p>Hier worden alle buttons en links door gelinked naar de controller.</p>
+                              </div>
+
+                              <div class="col s20 m6 10 center"><img class="materialboxed z-depth-2" data-caption="Zoo class" width="100%" src="img/Pasimo2.png">
+                                <p>De CoachGroupController</p>
+                                <p>Hier kan je via Struts informatie doorsturen naar een van deze functies.</P>
+
+
+                            </div>
                       </div>
                   </div>
 

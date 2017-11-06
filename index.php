@@ -166,6 +166,27 @@ function openCity(evt, cityName) {
 
                 </div>
 
+                <div class="row">
+                <div class="col s12 m12 l6">
+                    <div class="card">
+                        <div class="card-content grey lighten-4 z-depth-0">
+                            <div class="row">
+                                <div class="col l3 m4 s4">
+                                    <img src="img/project/photos/Samson1.png" alt="Scalda" class="responsive-img">
+                                </div>
+                                <div class="col l8 m8 s8">
+                                    <span class="card-title black-text">Samson Electronics</span>
+                                    <p>Augustus 2017 - November 2017</p>
+                                    <p>Stage</p>
+                                    <p>Escaperooms</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
 
 
 
@@ -177,6 +198,7 @@ function openCity(evt, cityName) {
                   <div class="tab">
                       <button class="tablinks active" onclick="openCity(event, 'AnimalKingdom')">AnimalKingdom</button>
                       <button class="tablinks" onclick="openCity(event, 'Pasimo')">Pasimo</button>
+                      <button class="tablinks" onclick="openCity(event, 'Samson')">Samson Electronics</button>
                   </div>
                   <div id="AnimalKingdom" class="tabcontent">
 
@@ -389,6 +411,116 @@ function openCity(evt, cityName) {
 
               </div>
           </div>
+          <div id="Samson" class="tabcontent">
+
+      <div class="modal-content">
+
+          <div class="container">
+              <div class="row">
+
+                  <div class="col s12 m6">
+                      <h4>Animal Kingdom</h4>
+                      <p class="light">
+                          Dit is de opdracht die ik heb gemaakt op mijn stage bij Samson Electronics.
+                          Mijn stagebegeleider wilde een website waar hij zijn producten of gereedschap in een voorraad kon zetten, zodat het makkelijk lezen was wat hij nog moet inkopen.
+                      </p>
+                  </div>
+                  <div class="col s12 m6 l6 center">
+                      <br>
+                      <img class="materialboxed z-depth-2" data-caption="Logo" width="100%" src="img/project/photos/Samson1.png">
+                      <br>
+                  </div>
+              </div>
+
+              <div class="row">
+                  <div class="col s12 m6 l6 center">
+                      <h5>Talen &amp; Frameworks</h5>
+
+                      <br>
+
+                      <div class="chip z-depth-2">
+                          <i class="fa fa-coffee" aria-hidden="true"></i> PHP
+                      </div>
+                      <div class="chip z-depth-2">
+                          <i class="fa fa-html" aria-hidden="true"></i> HTML
+                      </div>
+                      <div class="chip z-depth-2">
+                          <i class="fa fa-css3" aria-hidden="true"></i> CSS3
+                      </div>
+                      <div class="chip z-depth-2">
+                          <i class="fa fa-terminal" aria-hidden="true"></i> Javascript
+                      </div>
+                      <div class="chip z-depth-2">
+                          <i class="fa fa-database" aria-hidden="true"></i> MySQL
+                      </div>
+
+                  </div>
+
+                  <div class="col s12 m6 l6 center">
+                      <h5>Info</h5>
+                      <table class="bordered">
+                          <tbody>
+                              <tr>
+                                  <td><i class="fa fa-user" aria-hidden="true"></i></td>
+                                  <td>Opdrachtgever</td>
+                                  <td class="right"><a href="https://Products.gm7.nl">Samson Electronics<a/></td>
+                              </tr>
+                              <tr>
+                                  <td><i class="fa fa-clock-o" aria-hidden="true"></i></td>
+                                  <td>Tijdsduur</td>
+                                  <td class="right">1 Maanden</td>
+                              </tr>
+                              <tr>
+                                  <td><i class="fa fa-calendar" aria-hidden="true"></i></td>
+                                  <td>Opleverdatum</td>
+                                  <td class="right">Novermber 2017</td>
+                              </tr>
+                              <tr>
+                                  <td><i class="fa fa-graduation-cap" aria-hidden="true"></i></td>
+                                  <td>Beoordeling</td>
+                                  <td class="right">Goed</td>
+                              </tr>
+                          </tbody>
+                      </table>
+                  </div>
+
+              </div>
+
+              <div class="row">
+                  <div class="col s12 center">
+                      <h5>Screenshots</h5>
+                  </div>
+              </div>
+
+              <div class="row">
+                  <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Human class" width="100%" src="img/samsonView1.png">
+                      <p>view.php file</p>
+                  <p>Dit is waar je al de producten/gereedschappen kan zien.</p>
+                  <p>Ook is het mogelijk om producten of gereedschappen te wijzigen of toe te voegen</p>
+                  </div>
+                  <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Zoo class" width="100%" src="img/samsonView2.png">
+                      <p>view.php file</p>
+                      <p>Dit is waar je al de producten/gereedschappen kan zien.</p>
+                      <p>Ook is het mogelijk om producten of gereedschappen te wijzigen of toe te voegen</p>
+
+                  </div>
+                  <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Animals Overview" width="100%" src="img/samsonCrud1.png">
+                      <p>Crud.php file</p>
+                      <p>Hier worden alle knoppen in de view file gekoppeld aan de MYSQL queries,
+                          die zorgen er voor dat de informatie in de database terechtkomen</p>
+                  </div>
+
+                  <div class="col s12 m6 l3 center"><img class="materialboxed z-depth-2" data-caption="Edit class" width="100%" src="img/samsonCrud2.png">
+                      <p>Crud.php file</p>
+                      <p>Hier worden alle knoppen in de view file gekoppeld aan de MYSQL queries,
+                          die zorgen er voor dat de informatie in de database terechtkomen</p>
+
+                  </div>
+              </div>
+
+          </div>
+      </div>
+  </div>
         </div>
         <br>
         <footer id="contact" class="scrollspy page-footer">

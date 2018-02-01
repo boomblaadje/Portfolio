@@ -541,23 +541,28 @@ function openCity(evt, cityName) {
         </div>
         <br>
         <footer id="contact" class="scrollspy page-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col l4 offset-l1 s12">
-                        <div class="footer-title">Contactgegevens</div>
-                        <p>
-                            <i class="fa fa-map-marker"></i> Nieuwlandseweg 3, 4389VA Ritthem
-                            <br><i class="fa fa-phone"></i> 06 28 67 83 46
-                            <br> <i class="fa fa-skype"></i> issie1000
-                            <br> <i class="fa fa-envelope"></i> imeray@student.scalda.nl
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-copyright">
-                <div class="container"> Based on work from: <a style="margin-right: 5px;"href="https://github.com/marc0tjevp">Marco van Poortvliet</a> <a class="grey-text text-lighten-4 right" href="#!">Ismet Meray Webdevelopment</a> </div>
-            </div>
-        </footer>
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <div class="footer-title">Contact</div>
+            <?php include 'form.php';?>
+            <div class="mobile-divider"></div>
+          </div>
+          <div class="col l4 offset-l1 s12">
+            <div class="footer-title">Get in touch</div>
+            <p>
+                <i class="fa fa-phone"></i> 06 28 67 83 46
+                <br> <i class="fa fa-skype"></i> issie1000
+                <br> <i class="fa fa-envelope"></i> imeray@student.scalda.nl
+                <br> <i class="fa fa-map-marker"></i> Nieuwlandseweg 3, 4389VA Ritthem
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+          <div class="container"> Based on work from: <a style="margin-right: 5px;"href="https://github.com/marc0tjevp">Marco van Poortvliet</a> <a class="grey-text text-lighten-4 right" href="#!">Ismet Meray Webdevelopment</a> </div>
+      </div>
+    </footer>
 
 
     </body>
